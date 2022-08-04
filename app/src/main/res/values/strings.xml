@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppSitiosTuristicos</string>
+    <string name="nombre">NOMBRE</string>
+    <string name="ubicacion">UBICACION</string>
+    <string name="informacion">INFORMACION</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="valoracion">VALORACION</string>
+    <string name="detalle">DETALLE</string>
+</resources>

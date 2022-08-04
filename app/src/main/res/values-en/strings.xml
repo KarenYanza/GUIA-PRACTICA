@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppSitiosTuristicos</string>
+    <string name="nombre">NAME</string>
+    <string name="ubicacion">LOCATION</string>
+    <string name="informacion">INFORMATION</string>
+    <string name="guardar">SAVE</string>
+    <string name="valoracion">EVALUATION</string>
+    <string name="detalle">DETAIL</string>
+</resources>
